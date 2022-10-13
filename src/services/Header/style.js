@@ -24,6 +24,7 @@ export const Figure = styled.figure`
 export const Image = styled.img`
     width: 4rem;
     height: 100%;
+    filter: drop-shadow(4px 4px 4px #000);
 `;
 export const Figcaption = styled.figcaption`
     width: fit-content;

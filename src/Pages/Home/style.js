@@ -26,6 +26,8 @@ export const Figure = styled.figure`
 `
 export const Image = styled.img`
     width: 100%;
+    margin: 10px auto;
+    box-shadow: 5px 5px 10px #000;
 `
 export const Figcaption = styled.figcaption`
     

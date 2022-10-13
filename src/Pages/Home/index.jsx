@@ -10,7 +10,7 @@ export default function Home() {
                 <Link to='Proposals'>Propostas &rarr;</Link>
             </button>
             <S.Section>
-                <S.Title>Home page</S.Title>
+                <S.Title>Residencial Integração</S.Title>
                 <S.P>Esta página tem por objetivo identificar problemas socias, econômicos, ambientais e culturais no bairro afim de propor melhorias mediante um prazo estipulado</S.P>
                 <S.P>O objeto de estudo foi o Residencial Integração que é hoje um aglomerado de vários bairros antigos de pequeno porte da Zona Leste de Uberlândia. Residencial Integração é o conjunto formado pelos bairros extintos: Dom Almir, Joana D'Arc, São Francisco, Jardim Prosperidade, Grand Ville, Celebridade e Jardim Sucupira.</S.P>
                 <S.Figure>
