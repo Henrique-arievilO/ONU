@@ -21,12 +21,12 @@ export const TextBox = styled.div`
 export const Number = styled.h2`
     margin-right: 10px;
     font-size: 2rem;
-    color: var(--grey100);
+    color: #000;
 `
 export const Subtitle = styled.h3`
     text-align: right;
     font-size: 1rem;
-    color: var(--grey100);
+    color: #000;
 `
 export const Section = styled.section`
     width: 55%;
@@ -44,9 +44,4 @@ export const Title = styled.h1`
 `
 export const P = styled.p`
     margin: 1rem auto;
-`
-export const Image = styled.img`
-    width: 100%;
-    margin-top: 1rem;
-    filter: invert(100%);
 `
