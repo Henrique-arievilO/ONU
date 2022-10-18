@@ -36,4 +36,5 @@ export const ModalSubtitle = styled.h2`
 `
 export const ModalP = styled.p`
     color: #000;
+    margin-top: 2rem;
 `

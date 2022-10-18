@@ -8,7 +8,7 @@ export const Card = styled.div`
     box-shadow: 2px 2px 8px 2px #000;
     transition: all .5s;
     cursor: pointer;
-    background-color: #FF0000;
+    background-color: #ff0000;
 `
 export const TextBox = styled.div`
     width: 100%;
@@ -33,7 +33,9 @@ export const ModalTitle = styled.h1`
 `
 export const ModalSubtitle = styled.h2`
     color: #000;
+    margin-left: 1rem;
 `
 export const ModalP = styled.p`
     color: #000;
+    margin-top: 2rem;
 `

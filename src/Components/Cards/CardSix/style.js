@@ -15,7 +15,6 @@ export const TextBox = styled.div`
     display: flex;
     justify-content: space-between; 
     align-items: center;
-    color: var(--grey900)
 `
 export const Title = styled.h1`
     margin: 1rem auto;
@@ -34,7 +33,9 @@ export const ModalTitle = styled.h1`
 `
 export const ModalSubtitle = styled.h2`
     color: #000;
+    margin-left: 1rem;
 `
 export const ModalP = styled.p`
     color: #000;
+    margin-top: 2rem;
 `
