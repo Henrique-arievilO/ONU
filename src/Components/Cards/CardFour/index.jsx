@@ -36,7 +36,7 @@ export default function Card({ children }) {
                     <S.ModalTitle>4</S.ModalTitle>
                     <S.ModalSubtitle>Bairro limpo</S.ModalSubtitle>
                 </S.TextBox>
-                <S.ModalP>Seguindo os padrões de Curitiba-PR, incluir em cada esquina uma lixeira e um porta-bitucas a fim de incentivar as pessoas a não descartar lixo nas ruas e calçadas, contribuindo assim com o trabalho dos varredores, além de deixar o bairro mais limpo servindo de exeplo para o resto da cidade. Também incluir em pontos estratégicos de grande fluxo</S.ModalP>
+                <S.ModalP>Seguindo os padrões de Curitiba-PR, incluir em cada esquina uma lixeira e um porta-bitucas a fim de incentivar as pessoas a não descartar lixo nas ruas e calçadas, contribuindo assim com o trabalho dos varredores, além de deixar o bairro mais limpo servindo de exemplo para o resto da cidade. Também incluir em pontos estratégicos de grande fluxo</S.ModalP>
             </Modal>
 
             {children}

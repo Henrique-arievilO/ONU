@@ -36,7 +36,7 @@ export default function Card({ children }) {
                     <S.ModalTitle>1</S.ModalTitle>
                     <S.ModalSubtitle>Alimentação</S.ModalSubtitle>
                 </S.TextBox>
-                <S.ModalP>Garantir que todos os moradores tenham o direito a no mínimo três refeições por dia. Às margens do bairro existem famílias que vivem em uma ocupação e poder garantir que estas pessoas tenham uma alimentação saudádel é de extrema importância.</S.ModalP>
+                <S.ModalP>Garantir que todos os moradores tenham o direito a no mínimo três refeições por dia. Às margens do bairro existem famílias que vivem em uma ocupação e poder garantir que estas pessoas tenham uma alimentação saudável é de extrema importância.</S.ModalP>
             </Modal>
 
             {children}

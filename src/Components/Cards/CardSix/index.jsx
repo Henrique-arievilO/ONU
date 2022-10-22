@@ -6,13 +6,6 @@ import Image06 from '../../../assets/06.png'
 export default function Card({ children }) {
     const [status, setStatus] = useState(false)
 
-    // {
-    //     number2: '2',
-    //     trouble2: 'Vias acessíveis',
-    //     proposal2: 'Muitas das calçadas são estreitas e assim como as ruas não possuem sinalização adequada. Minha proposta seria fazer um levantamento das vias de maior tráfego tanto de veículos quanto de pedestres e readequar conforme as normas de acessibilidade inserindo rampas para cadeirantes, faixas-guia para pessoas com deficiência visual, etc.',
-    // },
-
-
     function handleModal() {
         setStatus(!status)
     }
